@@ -1,0 +1,29 @@
+# Noobie Privacy Policy
+1. Introduction
+This Privacy Policy describes how Noobie Bot ("we," "us," or "the Bot") handles your information. By using the Bot and providing your Discord User Token, you acknowledge that you understand the risks involved and agree to this policy.
+
+2. Information We Collect
+To perform its primary function (completing quests), the Bot requires:
+Discord User Token: This is a sensitive credential that grants the Bot full access to your Discord account.
+Discord User ID: To identify which user is executing a command.
+Quest Progress Data: Information related to the specific quest being automated.
+
+3. How We Use Your Token
+We use your token exclusively to:
+Access the Discord API on your behalf to complete specific in-app quests.
+We do not read your private messages, join/leave servers without your command, or change your account credentials.
+
+4. Security and Storage
+We understand the sensitivity of a Discord Token.
+Storage: Tokens are [encrypted/not stored long-term] in our database.
+Access: Only the automated bot script accesses the token. No human administrator will ever manually view or copy your token.
+Deletion: You can request the deletion of your data and token at any time by using the [Your Delete Command] command.
+
+5. Critical Risk Warning
+User Assumption of Risk: Providing your user token to any third-party application is against the Discord Terms of Service. Use of Noobie Bot may result in your Discord account being disabled or banned by Discord Inc. By using this service, you accept full responsibility for any actions taken by Discord against your account.
+
+6. Third-Party Sharing
+We never sell, trade, or share your Discord token or personal data with any third-party individuals or companies
+
+- Developed By Kitto 
+- Backend By Rayyan
